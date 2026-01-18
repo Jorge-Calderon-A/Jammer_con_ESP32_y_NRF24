@@ -16,14 +16,5 @@ Este proyecto se realiza con la placa ESP32U y modulos NRF24l01, los componentes
 Se conecta el ESP32 en el protoboard, lo que se hizo fue quitar un modulo +- del protoboard para que la placa ESP32 pueda quedar en cada pin de manera correcta sin que superpongan una con otra mediante las conexiones internas del protoboard, luego se siguieron las siguientes conexiones de señales.
 
 
-ESP32U	NRF24l01	Condensador
-VCC	3,3 V	(+)
-Tierra	Tierra	(-)
-CE	GPIO 16	
-CSN	GPIO 15	
-SCK	GPIO 14	
-MOSI	GPIO 13	
-MISO	GPIO 12	
-IRQ		
 <img width="367" height="262" alt="image" src="https://github.com/user-attachments/assets/1c5f8a68-c9c3-423f-b13e-4171c7215742" />
 
