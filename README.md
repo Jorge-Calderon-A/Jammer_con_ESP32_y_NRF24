@@ -26,5 +26,7 @@ Para el módulo VSPI:
 
 <img width="367" height="262" alt="image" src="https://github.com/user-attachments/assets/1135e224-19d6-4d80-a315-e4713c66dfad" />
 
+Siguiendo las conexiones es bastante sencillo continuar, una vez instalada las antenas, se procede a flashear la placa ESP32, en la pagina [Flasher ESP32](https://esp32-bluejammerflasher.pages.dev/)
+
 
 
