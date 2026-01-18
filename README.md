@@ -28,5 +28,7 @@ Para el módulo VSPI:
 
 Siguiendo las conexiones es bastante sencillo continuar, una vez instalada las antenas, se procede a flashear la placa ESP32, en la pagina [Flasher ESP32](https://esp32-bluejammerflasher.pages.dev/)
 
+Una vez en la pagina, conectar la placa al pc e instalar las librerias especificas para que el PC pueda reconocer la placa, la pagina es [drivers ESP32U CP210x](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads), seleccionar el driver CP210x, luego volver a la pagina del flasher y mantener el boton BOOT de la placa hasta el 10% de la carga total del programa y luego soltar, una vez listo, desconectar y probar mediante el PC o un cargador conectado a la placa para alimentar los modulos y la misma placa.
+
 
 
