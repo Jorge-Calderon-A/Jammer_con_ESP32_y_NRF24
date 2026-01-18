@@ -1,4 +1,4 @@
-# Jammer con ESP32 y modulos NRF24
+# Jammer con ESP32 y módulos NRF24
 
 En este contexto se aplica un blqueador de señales, lo que hace este dispositivo es emitir señales que sean similares a la que un receptor recibe, de tal manera que este se confuna y no logre distinguir cual es la correcta.
 
@@ -15,7 +15,7 @@ Este proyecto se realiza con la placa ESP32U y modulos NRF24l01, los componentes
 
 Se conecta el ESP32 en el protoboard, lo que se hizo fue quitar un modulo +- del protoboard para que la placa ESP32 pueda quedar en cada pin de manera correcta sin que superpongan una con otra mediante las conexiones internas del protoboard, luego se siguieron las siguientes conexiones de señales.
 
-Para el modulo HSPI:
+Para el módulo HSPI:
 
 
 <img width="367" height="262" alt="image" src="https://github.com/user-attachments/assets/610392ad-50d9-41c4-9444-b9189f9f88f0" />
