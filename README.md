@@ -20,4 +20,9 @@ Para el módulo HSPI:
 
 <img width="367" height="262" alt="image" src="https://github.com/user-attachments/assets/610392ad-50d9-41c4-9444-b9189f9f88f0" />
 
+Para el módulo VSPI:
+
+<img width="367" height="262" alt="image" src="https://github.com/user-attachments/assets/1135e224-19d6-4d80-a315-e4713c66dfad" />
+
+
 
