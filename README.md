@@ -6,8 +6,8 @@ Este proyecto se realiza con la placa ESP32U y modulos NRF24l01, los componentes
 
 - Placa ESP32U
 - Modulos NRF24l01
-- cabla dumper macho a hembra
+- cable dumper macho a hembra
 - Protoboard
-- Cale tipo C
+- Cable tipo C
 - PC
 - transformador (util si el pc no entrega la coriente necesaria para que funcione el ESP32)
