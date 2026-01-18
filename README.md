@@ -11,3 +11,4 @@ Este proyecto se realiza con la placa ESP32U y modulos NRF24l01, los componentes
 - Cable tipo C (capaz de manejar datos y carga)
 - PC
 - transformador (util si el pc no entrega la coriente necesaria para que funcione el ESP32)
+- 2 condensadores de $10uf$
