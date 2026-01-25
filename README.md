@@ -1,6 +1,6 @@
 # Jammer con ESP32 y módulos NRF24
 
-En este contexto se aplica un blqueador de señales, lo que hace este dispositivo es emitir señales que sean similares a la que un receptor recibe, de tal manera que este se confuna y no logre distinguir cual es la correcta.
+En este contexto se aplica un bloqueador de señales, lo que hace este dispositivo es emitir señales que sean similares a la que un receptor recibe, de tal manera que este se confuna y no logre distinguir cual es la correcta.
 
 Este proyecto se realiza con la placa ESP32U y modulos NRF24l01, los componentes utilizados son:
 
