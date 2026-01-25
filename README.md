@@ -31,4 +31,9 @@ Siguiendo las conexiones es bastante sencillo continuar, una vez instalada las a
 Una vez en la pagina, conectar la placa al pc e instalar los drivers especificos para que el PC pueda reconocer la placa, la pagina es [drivers ESP32U CP210x](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads), seleccionar el driver CP210x, luego volver a la pagina del flasher y mantener el boton BOOT de la placa hasta el 10% de la carga total del programa y luego soltar, una vez listo, desconectar y probar mediante el PC o un cargador conectado a la placa para alimentar los modulos y la misma placa.
 
 
+![WhatsApp Image 2026-01-24 at 22 51 25](https://github.com/user-attachments/assets/a483fbe3-cd37-414c-8fbf-ee79973cace0)
+![2](https://github.com/user-attachments/assets/f6275490-d856-40a3-8b16-bac39dcff756)
+
+
+
 
