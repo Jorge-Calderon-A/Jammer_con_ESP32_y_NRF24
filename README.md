@@ -33,6 +33,7 @@ Una vez en la pagina, conectar la placa al pc e instalar los drivers especificos
 
 ![WhatsApp Image 2026-01-24 at 22 51 25](https://github.com/user-attachments/assets/a483fbe3-cd37-414c-8fbf-ee79973cace0)
 ![2](https://github.com/user-attachments/assets/f6275490-d856-40a3-8b16-bac39dcff756)
+![3](https://github.com/user-attachments/assets/a75c983c-5329-427e-b1e1-72c6a046ab4a)
 
 
 
